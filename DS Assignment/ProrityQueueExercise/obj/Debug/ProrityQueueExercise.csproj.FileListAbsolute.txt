@@ -1,0 +1,7 @@
+C:\Users\guddantianjali\source\repos\Assignment3\ProrityQueueExercise\bin\Debug\ProrityQueueExercise.exe.config
+C:\Users\guddantianjali\source\repos\Assignment3\ProrityQueueExercise\bin\Debug\ProrityQueueExercise.exe
+C:\Users\guddantianjali\source\repos\Assignment3\ProrityQueueExercise\bin\Debug\ProrityQueueExercise.pdb
+C:\Users\guddantianjali\source\repos\Assignment3\ProrityQueueExercise\obj\Debug\ProrityQueueExercise.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\source\repos\Assignment3\ProrityQueueExercise\obj\Debug\ProrityQueueExercise.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\source\repos\Assignment3\ProrityQueueExercise\obj\Debug\ProrityQueueExercise.exe
+C:\Users\guddantianjali\source\repos\Assignment3\ProrityQueueExercise\obj\Debug\ProrityQueueExercise.pdb

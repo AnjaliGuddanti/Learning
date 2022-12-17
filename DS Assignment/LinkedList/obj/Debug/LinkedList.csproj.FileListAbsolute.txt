@@ -1,0 +1,7 @@
+C:\Users\guddantianjali\source\repos\Assignment3\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\guddantianjali\source\repos\Assignment3\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\guddantianjali\source\repos\Assignment3\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\guddantianjali\source\repos\Assignment3\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\source\repos\Assignment3\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\source\repos\Assignment3\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\guddantianjali\source\repos\Assignment3\LinkedList\obj\Debug\LinkedList.pdb

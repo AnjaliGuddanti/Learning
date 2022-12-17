@@ -1,0 +1,14 @@
+C:\Users\guddantianjali\source\repos\Assignment3\QueueExercise\bin\Debug\QueueExercise.exe.config
+C:\Users\guddantianjali\source\repos\Assignment3\QueueExercise\bin\Debug\QueueExercise.exe
+C:\Users\guddantianjali\source\repos\Assignment3\QueueExercise\bin\Debug\QueueExercise.pdb
+C:\Users\guddantianjali\source\repos\Assignment3\QueueExercise\obj\Debug\QueueExercise.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\source\repos\Assignment3\QueueExercise\obj\Debug\QueueExercise.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\source\repos\Assignment3\QueueExercise\obj\Debug\QueueExercise.exe
+C:\Users\guddantianjali\source\repos\Assignment3\QueueExercise\obj\Debug\QueueExercise.pdb
+C:\Users\guddantianjali\Desktop\DS Assignment\QueueExercise\bin\Debug\QueueExercise.exe.config
+C:\Users\guddantianjali\Desktop\DS Assignment\QueueExercise\bin\Debug\QueueExercise.exe
+C:\Users\guddantianjali\Desktop\DS Assignment\QueueExercise\bin\Debug\QueueExercise.pdb
+C:\Users\guddantianjali\Desktop\DS Assignment\QueueExercise\obj\Debug\QueueExercise.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\Desktop\DS Assignment\QueueExercise\obj\Debug\QueueExercise.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\Desktop\DS Assignment\QueueExercise\obj\Debug\QueueExercise.exe
+C:\Users\guddantianjali\Desktop\DS Assignment\QueueExercise\obj\Debug\QueueExercise.pdb

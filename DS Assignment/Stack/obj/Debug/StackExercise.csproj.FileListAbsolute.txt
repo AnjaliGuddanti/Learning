@@ -1,0 +1,14 @@
+C:\Users\guddantianjali\source\repos\Assignment3\Stack\bin\Debug\Stack.exe.config
+C:\Users\guddantianjali\source\repos\Assignment3\Stack\bin\Debug\Stack.exe
+C:\Users\guddantianjali\source\repos\Assignment3\Stack\bin\Debug\Stack.pdb
+C:\Users\guddantianjali\source\repos\Assignment3\Stack\obj\Debug\StackExercise.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\source\repos\Assignment3\Stack\obj\Debug\Stack.exe
+C:\Users\guddantianjali\source\repos\Assignment3\Stack\obj\Debug\Stack.pdb
+C:\Users\guddantianjali\source\repos\Assignment3\Stack\obj\Debug\StackExercise.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\Desktop\DS Assignment\Stack\bin\Debug\Stack.exe.config
+C:\Users\guddantianjali\Desktop\DS Assignment\Stack\bin\Debug\Stack.exe
+C:\Users\guddantianjali\Desktop\DS Assignment\Stack\bin\Debug\Stack.pdb
+C:\Users\guddantianjali\Desktop\DS Assignment\Stack\obj\Debug\StackExercise.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\Desktop\DS Assignment\Stack\obj\Debug\StackExercise.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\Desktop\DS Assignment\Stack\obj\Debug\Stack.exe
+C:\Users\guddantianjali\Desktop\DS Assignment\Stack\obj\Debug\Stack.pdb
