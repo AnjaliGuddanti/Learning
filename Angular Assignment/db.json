@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "rollNo": 100,
+      "name": "Hema",
+      "dob": "11-02-1999",
+      "score": 90,
+      "id": 2
+    },
+    {
+      "rollNo": 101,
+      "name": "Kiran",
+      "dob": "06-12-2012",
+      "score": 67,
+      "id": 3
+    },
+    {
+      "rollNo": 102,
+      "name": "sree",
+      "dob": "22-12-2014",
+      "score": 34,
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Anjali",
+      "email": "anjali@nagarro.com",
+      "password": "1234",
+      "id": 1
+    }
+  ]
+}

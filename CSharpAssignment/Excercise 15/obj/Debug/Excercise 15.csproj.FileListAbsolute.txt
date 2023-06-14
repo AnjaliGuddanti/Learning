@@ -1,0 +1,7 @@
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excercise 15\obj\Debug\Excercise 15.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excercise 15\obj\Debug\Excercise 15.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excercise 15\bin\Debug\Excercise 15.exe.config
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excercise 15\bin\Debug\Excercise 15.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excercise 15\bin\Debug\Excercise 15.pdb
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excercise 15\obj\Debug\Excercise 15.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excercise 15\obj\Debug\Excercise 15.pdb

@@ -1,0 +1,7 @@
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excersice 9\bin\Debug\Excersice 9.exe.config
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excersice 9\bin\Debug\Excersice 9.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excersice 9\bin\Debug\Excersice 9.pdb
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excersice 9\obj\Debug\Excersice 9.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excersice 9\obj\Debug\Excersice 9.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excersice 9\obj\Debug\Excersice 9.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Excersice 9\obj\Debug\Excersice 9.pdb

@@ -1,0 +1,7 @@
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 1B1\bin\Debug\Exercise 1B1.exe.config
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 1B1\bin\Debug\Exercise 1B1.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 1B1\bin\Debug\Exercise 1B1.pdb
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 1B1\obj\Debug\Exercise 1B1.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 1B1\obj\Debug\Exercise 1B1.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 1B1\obj\Debug\Exercise 1B1.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 1B1\obj\Debug\Exercise 1B1.pdb

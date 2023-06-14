@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cyl7zSO0mzXnqBicWqKziiFJsXZr3vtVhW8+aB83rQU+nOnQPo8O2tE3acu8HWsbZyZqr9qQh7mCeQDiG8Ivpw==",
+  "success": true,
+  "projectFilePath": "C:\\GitAssignment\\guddanti-anjali-\\Jenkins\\jenkins\\jenkins\\jenkins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guddantianjali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

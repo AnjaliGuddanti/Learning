@@ -1,0 +1,7 @@
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 17\bin\Debug\Exercise 17.exe.config
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 17\bin\Debug\Exercise 17.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 17\bin\Debug\Exercise 17.pdb
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 17\obj\Debug\Exercise 17.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 17\obj\Debug\Exercise 17.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 17\obj\Debug\Exercise 17.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 17\obj\Debug\Exercise 17.pdb

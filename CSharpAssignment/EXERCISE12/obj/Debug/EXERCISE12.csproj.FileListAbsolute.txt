@@ -1,0 +1,7 @@
+C:\Users\guddantianjali\source\repos\CSharpAssignment\EXERCISE12\bin\Debug\EXERCISE12.exe.config
+C:\Users\guddantianjali\source\repos\CSharpAssignment\EXERCISE12\bin\Debug\EXERCISE12.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\EXERCISE12\bin\Debug\EXERCISE12.pdb
+C:\Users\guddantianjali\source\repos\CSharpAssignment\EXERCISE12\obj\Debug\EXERCISE12.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\EXERCISE12\obj\Debug\EXERCISE12.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\EXERCISE12\obj\Debug\EXERCISE12.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\EXERCISE12\obj\Debug\EXERCISE12.pdb

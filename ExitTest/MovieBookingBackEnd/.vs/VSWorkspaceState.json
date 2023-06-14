@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplicationAPI",
+    "\\WebApplicationAPI\\WebApplicationAPI",
+    "\\WebApplicationAPI\\WebApplicationAPI\\Data",
+    "\\WebApplicationAPI\\WebApplicationAPI\\Data\\Repo",
+    "\\WebApplicationAPI\\WebApplicationAPI\\Helpers"
+  ],
+  "SelectedNode": "\\WebApplicationAPI\\WebApplicationAPI\\Helpers\\AutoMapperProfiles.cs",
+  "PreviewInSolutionExplorer": false
+}

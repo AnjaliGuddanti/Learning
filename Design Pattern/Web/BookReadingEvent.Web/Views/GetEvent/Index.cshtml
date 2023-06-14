@@ -1,0 +1,72 @@
+﻿@model Event;
+@{
+    if (ViewBag.checkLayout == "Home")
+    {
+        Layout = "_Layout";
+    }
+    else
+    {
+
+        Layout = "_LayoutEvent";
+    }
+}
+<h3 class="display-4 " style="text-align:center">Event Details</h3>
+<hr />
+<div class="card shadow-lg" style="width:70%; margin-bottom: 3px; align-content:center;background-color: bisque; margin-left:20px; margin-right:20px">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <h6 class="card-subtitle mb-2 text-muted"><b>Description :</b>@Model.Description </h6>
+        <h6 class="card-subtitle mb-2 text-muted"><b>Date :</b>@Model.Date.ToShortDateString() </h6>
+        <h6 class="card-subtitle mb-2 text-muted"><b>Duration :</b>@Model.Duration</h6>
+        <h6 class="card-subtitle mb-2 text-muted"><b>Location :</b>@Model.Location</h6>
+        <h6 class="card-subtitle mb-2 text-muted"><b>StartTime :</b>@Model.StartTime</h6>
+        <h6 class="card-subtitle mb-2 text-muted"><b>OtherDetails :</b>@Model.OtherDetails</h6>
+        <h6 class="card-subtitle mb-2 text-muted"><b>CreatedBy :</b>@Model.Creator</h6>
+    </div>
+</div>
+
+<div>
+    @if (ViewBag.emailId != null && ViewBag.check == "MyEvent")
+    {
+        <a asp-controller="UpdateEvent" asp-action="Index" class="btn btn-outline-primary" style="margin-left:20px;" asp-route-id="@Model.EventId">Update</a>
+        <a asp-action="DeleteByEventId" asp-controller="GetEvent" asp-route-id="@Model.EventId" class="btn btn-outline-warning">Delete</a>
+    }
+</div>
+
+@if (ViewBag.emailId != null)
+{
+
+    <a asp-action="Index" class="btn btn-outline-success" style="margin-left:20px;margin-top:30px;" asp-controller="Comment" asp-route-id="@Model.EventId">Add Comment</a>
+}
+
+
+@if (ViewBag.count == 1)
+{
+    {
+    <div class="row" style="margin-top:50px; margin-left:10px; margin-right:10px; margin-bottom:50px;">
+        <table class="table table-bordered">
+            <thead style="background-color:skyblue; color:white;">
+                <tr class="fs-5">
+                    <th colspan="2">Comments</th>
+                </tr>
+            </thead>
+
+
+            <tbody>
+
+
+
+                @foreach (var comment in ViewBag.Comments)
+                {
+
+                    <tr class="fs-5" style="margin-bottom:10px;">
+                        <td>@comment.Email</td>
+                        <td>@comment.Comment1</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    }
+}

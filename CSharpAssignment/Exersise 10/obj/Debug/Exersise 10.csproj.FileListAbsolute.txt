@@ -1,0 +1,6 @@
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exersise 10\bin\Debug\Exersise 10.exe.config
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exersise 10\bin\Debug\Exersise 10.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exersise 10\bin\Debug\Exersise 10.pdb
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exersise 10\obj\Debug\Exersise 10.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exersise 10\obj\Debug\Exersise 10.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exersise 10\obj\Debug\Exersise 10.pdb

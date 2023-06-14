@@ -1,0 +1,7 @@
+C:\Users\pragadaniharika\source\repos\jenkins\jenkins\obj\Release\netcoreapp3.1\PubTmp\Out\jenkins.exe
+C:\Users\pragadaniharika\source\repos\jenkins\jenkins\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\pragadaniharika\source\repos\jenkins\jenkins\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\pragadaniharika\source\repos\jenkins\jenkins\obj\Release\netcoreapp3.1\PubTmp\Out\jenkins.dll
+C:\Users\pragadaniharika\source\repos\jenkins\jenkins\obj\Release\netcoreapp3.1\PubTmp\Out\jenkins.deps.json
+C:\Users\pragadaniharika\source\repos\jenkins\jenkins\obj\Release\netcoreapp3.1\PubTmp\Out\jenkins.runtimeconfig.json
+C:\Users\pragadaniharika\source\repos\jenkins\jenkins\obj\Release\netcoreapp3.1\PubTmp\Out\jenkins.pdb

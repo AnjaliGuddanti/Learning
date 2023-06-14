@@ -1,0 +1,30 @@
+﻿@model UserLogin;
+    
+        <div>
+            <h3>Login Page </h3>
+            <hr />
+        </div>
+        <div class="shadow-none" style="width: 100%; margin-left: 5px; margin-right:50px; margin-top:20px;margin-bottom:20px; text-align:left;background-color:ghostwhite">
+
+            <form method="post" asp-action="Index" asp-controller="Login">
+                @if (ViewBag.IsSucess)
+                {
+                    <div class="alert alert-danger" role="alert">
+                        Email-id or password is incorrect
+                    </div>
+                }
+
+                <div class="mb-3">
+                    <label asp-for="EmailID" class="form-label"><b>Email address</b></label>
+                    <input asp-for="EmailID" class="form-control" required>
+
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label"><b>Password</b></label>
+                    <input asp-for="Password" class="form-control" id="exampleInputPassword1" required>
+                </div>
+                <input type="submit" value="Login" class="btn btn-primary" />
+
+            </form>
+        </div>
+    </div>

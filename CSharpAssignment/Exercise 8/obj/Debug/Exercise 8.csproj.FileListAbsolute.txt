@@ -1,0 +1,6 @@
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 8\bin\Debug\Exercise 8.exe.config
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 8\bin\Debug\Exercise 8.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 8\bin\Debug\Exercise 8.pdb
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 8\obj\Debug\Exercise 8.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 8\obj\Debug\Exercise 8.exe
+C:\Users\guddantianjali\source\repos\CSharpAssignment\Exercise 8\obj\Debug\Exercise 8.pdb
