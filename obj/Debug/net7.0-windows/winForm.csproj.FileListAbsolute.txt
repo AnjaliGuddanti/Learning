@@ -1,0 +1,15 @@
+C:\Users\guddantianjali\Desktop\Docker\winForm\bin\Debug\net7.0-windows\winForm.exe
+C:\Users\guddantianjali\Desktop\Docker\winForm\bin\Debug\net7.0-windows\winForm.deps.json
+C:\Users\guddantianjali\Desktop\Docker\winForm\bin\Debug\net7.0-windows\winForm.runtimeconfig.json
+C:\Users\guddantianjali\Desktop\Docker\winForm\bin\Debug\net7.0-windows\winForm.dll
+C:\Users\guddantianjali\Desktop\Docker\winForm\bin\Debug\net7.0-windows\winForm.pdb
+C:\Users\guddantianjali\Desktop\Docker\winForm\obj\Debug\net7.0-windows\winForm.csproj.AssemblyReference.cache
+C:\Users\guddantianjali\Desktop\Docker\winForm\obj\Debug\net7.0-windows\winForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guddantianjali\Desktop\Docker\winForm\obj\Debug\net7.0-windows\winForm.AssemblyInfoInputs.cache
+C:\Users\guddantianjali\Desktop\Docker\winForm\obj\Debug\net7.0-windows\winForm.AssemblyInfo.cs
+C:\Users\guddantianjali\Desktop\Docker\winForm\obj\Debug\net7.0-windows\winForm.csproj.CoreCompileInputs.cache
+C:\Users\guddantianjali\Desktop\Docker\winForm\obj\Debug\net7.0-windows\winForm.dll
+C:\Users\guddantianjali\Desktop\Docker\winForm\obj\Debug\net7.0-windows\refint\winForm.dll
+C:\Users\guddantianjali\Desktop\Docker\winForm\obj\Debug\net7.0-windows\winForm.pdb
+C:\Users\guddantianjali\Desktop\Docker\winForm\obj\Debug\net7.0-windows\winForm.genruntimeconfig.cache
+C:\Users\guddantianjali\Desktop\Docker\winForm\obj\Debug\net7.0-windows\ref\winForm.dll
