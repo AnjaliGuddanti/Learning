@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NotificationSystem.BLL/1.0.0": {
+        "dependencies": {
+          "NotificationSystem.DAL": "1.0.0"
+        },
+        "runtime": {
+          "NotificationSystem.BLL.dll": {}
+        }
+      },
+      "NotificationSystem.DAL/1.0.0": {
+        "runtime": {
+          "NotificationSystem.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotificationSystem.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NotificationSystem.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
