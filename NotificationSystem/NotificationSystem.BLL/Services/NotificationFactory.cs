@@ -4,22 +4,21 @@ namespace NotificationSystem.BLL.Services
 {
     internal class NotificationFactory
     {
-        public INotificationChannel CreateChannel(NotificationType notificationType)
+        public static INotificationChannel CreateChannel(NotificationType notificationType)
         {
-            if(notificationType ==NotificationType.email)
+            INotificationChannel? channel = null;
+            switch (notificationType)
             {
-                return new EmailNotificationChannel();
+                case NotificationType.email:
+                    channel = new EmailNotificationChannel();
+                    break;
+                case NotificationType.sms:
+                    channel = new SMSNotificationChannel();
+                    break;
+                default:
+                    break;
             }
-            else if (notificationType == NotificationType.sms)
-            {
-                return new SMSNotificationChannel();
-            }
-            else
-            {
-                return null;
-
-            }
-            
+            return channel;
         }
     }
 }

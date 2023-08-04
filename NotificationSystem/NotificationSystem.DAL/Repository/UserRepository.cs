@@ -7,8 +7,8 @@ namespace NotificationSystem.DAL.Repository
     {
         private readonly UserDatabase database;
 
-        public UserRepository() { 
-            database = new UserDatabase();
+        public UserRepository() {
+            database = UserDatabase.GetInstance;
         }
         public List<User> GetUsers()
         {

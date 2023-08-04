@@ -4,15 +4,9 @@ using NotificationSystem.ConsoleApp.Model;
 
 namespace NotificationSystem.ConsoleApp
 {
-    public class NotificationAdapter
+    public class NotificationAdapter : INotitificationAdapter
     {
-        internal void Notify(NotificationModel notification)
-        {
-            var notifictionDto = ConvertNotification(notification);
-            NotificationFacade notificationFacade = new();
-            notificationFacade.SendNotification(notifictionDto);
-
-        }
+       
         private static NotificationDto ConvertNotification(NotificationModel notification)
         {
             NotificationDto notificationDto = new();
@@ -20,6 +14,13 @@ namespace NotificationSystem.ConsoleApp
             notificationDto.MessageBody = notification.MessageBody;
             notificationDto.ChannelOfNotification = (BLL.Dtos.NotificationType)notification.ChannelOfNotification;
             return notificationDto;
+        }
+
+        void INotitificationAdapter.Notify(NotificationModel notification)
+        {
+            var notifictionDto = ConvertNotification(notification);
+            NotificationFacade notificationFacade = new();
+            notificationFacade.SendNotification(notifictionDto);
         }
     }
 }

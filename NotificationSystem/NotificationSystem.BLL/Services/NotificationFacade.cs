@@ -5,22 +5,34 @@ namespace NotificationSystem.BLL.Services
 {
     public class NotificationFacade
     {
-        private IUserRepository userRepository { get; set; }
-        private List<UserDto> users { get; set; }
-        private IUserService userService { get; set; }
+        private IUserService UserService { get; set; }
         public NotificationFacade() {
-            userRepository = new UserRepository();
-            userService = new UserService();
+            
+            UserService = new UserService();
         }
         public void SendNotification(NotificationDto notificationDto)
         { 
-            INotificationChannel notificationChannel =new NotificationFactory().CreateChannel(notificationDto.ChannelOfNotification);
-            users = userService.GetUsersByChannel(notificationDto.ChannelOfNotification);
-            foreach (var user in users)
+            INotificationChannel notificationChannel =NotificationFactory.CreateChannel(notificationDto.ChannelOfNotification);
+            if(notificationChannel != null)
             {
-                notificationChannel.SendNotification(notificationDto, user);
+                var users = UserService.GetUsersByChannel(notificationDto.ChannelOfNotification);
+                if (users.Count != 0)
+                {
+                    foreach (var user in users)
+                    {
+                        notificationChannel.SendNotification(notificationDto, user);
+                    }
+                }
+                else
+                {
+                    Console.WriteLine($"Users not subscribed to the {notificationDto.ChannelOfNotification}");
+                }
+                
             }
-            
+            else
+            {
+                Console.WriteLine("Invalid Channel");
+            }
         }
     }
 }

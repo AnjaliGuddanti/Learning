@@ -28,7 +28,7 @@ while (!quit)
         // Console.WriteLine(notification.Subject);
         // Console.WriteLine(notification.MessageBody);
         //Console.WriteLine(notification.ChannelOfNotification);
-        NotificationAdapter notificationAdapter = new NotificationAdapter();
+        INotitificationAdapter notificationAdapter = new NotificationAdapter();
         notificationAdapter.Notify(notification);
     }
     else

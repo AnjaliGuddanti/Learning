@@ -7,10 +7,10 @@ namespace NotificationSystem.BLL.Services
 
     internal class UserService : IUserService
     {
-        private IUserRepository userRepository { get; set; }
+        private IUserRepository UserRepository { get; set; }
         public UserService()
         {
-             userRepository = new UserRepository();
+             UserRepository = new UserRepository();
         }
         public List<UserDto> GetUsersByChannel(NotificationType notificationType)
         {
@@ -19,7 +19,7 @@ namespace NotificationSystem.BLL.Services
 
         public List<UserDto> GetAllUsers()
         {
-            return userRepository.GetUsers().Select(_users=> 
+            return UserRepository.GetUsers().Select(_users=> 
             new UserDto { 
                 Name=_users.Name ,
                 ContactInformation=_users.ContactInformation,
